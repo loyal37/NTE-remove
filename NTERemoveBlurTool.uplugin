@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "NTE Remove Blur Tool",
+	"Description": "Editor tool for generating Animation Blueprint nodes that keep selected material slots from entering near-camera dither fade.",
+	"Category": "NTE",
+	"CreatedBy": "loyal37",
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"Modules": [
+		{
+			"Name": "NTERemoveBlurTool",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
