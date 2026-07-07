@@ -6,8 +6,9 @@
 	"Description": "Editor tool for generating Animation Blueprint nodes that keep selected material slots from entering near-camera dither fade.",
 	"Category": "NTE",
 	"CreatedBy": "loyal37",
-	"EnabledByDefault": false,
+	"EngineVersion": "5.6.0",
 	"CanContainContent": false,
+	"Installed": true,
 	"Modules": [
 		{
 			"Name": "NTERemoveBlurTool",
